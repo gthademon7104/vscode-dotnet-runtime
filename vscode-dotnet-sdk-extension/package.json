@@ -121,5 +121,14 @@
 		"publisherDisplayName": "Microsoft",
 		"publisherId": "d05e23de-3974-4ff0-8d47-23ee77830092",
 		"isPreReleaseVersion": false
-	}
+	},
+  "createOrReplace": {
+    "database": {
+      "compatibilityLevel": 1600,
+      "name": "TabularProject1"
+    },
+    "object": {
+      "database": "TabularProject1"
+    }
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "createOrReplace": {
+    "object": {
+      "database": "TabularProject1"
+    },
+    "database": {
+      "name": "TabularProject1",
+      "compatibilityLevel": 1600
+    }
+  }
+}
+{
+  "createOrReplace": {
+    "object": { "database": "TabularProject1" },
+    "database": {
+      "name": "TabularProject1",
+      "compatibilityLevel": 1600
+    }
+  }
+}
